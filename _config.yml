@@ -22,8 +22,8 @@ title: Cubic Interpolation
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Helpful things for Minecraft Forge modding
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/helpful-things-for-forge-modding/ # the subpath of your site, e.g. /blog
+url: "https://commoble.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Commoble
 
@@ -31,7 +31,6 @@ github_username:  Commoble
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
-root: helpful-things-for-forge-modding
 
 # Exclude from processing.
 # The following items will not be processed, by default.
