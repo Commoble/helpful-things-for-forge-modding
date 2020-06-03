@@ -3,4 +3,4 @@ Commoble's Helpful Things for Minecraft Forge Modding
 
 TODO write readme
 
-Link to the github pages page: http://commoble.github.io/helpful-things-for-forge-modding
+Link to the github pages page: https://commoble.github.io/helpful-things-for-forge-modding
