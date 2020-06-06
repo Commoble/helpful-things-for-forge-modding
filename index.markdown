@@ -50,3 +50,8 @@ If you are using Intellij, check the forge MDK's readme for instructions
 * [Utility for setting up a reload listener to load json assets into java objects](https://gist.github.com/Commoble/2fc5a5f831529767f52d37900844c6ba)
 * [Utility for writing a Map into NBT](https://gist.github.com/Commoble/9316f64c4a5bc9474312382872465482)
 * [Utility for writing a List into NBT](https://gist.github.com/Commoble/463df511582ef7e8783cacb7e06c9903)
+
+
+## Helpful Information About Specific Things
+
+* [What's the difference between the different VoxelShape getters in forge for minecraft 1.15?] (https://gist.github.com/Commoble/1e44951973ccc518248ccc0ee3880bf9)
