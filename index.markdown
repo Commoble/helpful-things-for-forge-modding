@@ -54,4 +54,4 @@ If you are using Intellij, check the forge MDK's readme for instructions
 
 ## Helpful Information About Specific Things
 
-* [What's the difference between the different VoxelShape getters in forge for minecraft 1.15?] (https://gist.github.com/Commoble/1e44951973ccc518248ccc0ee3880bf9)
+* [What's the difference between the different VoxelShape getters in forge for minecraft 1.15?](https://gist.github.com/Commoble/1e44951973ccc518248ccc0ee3880bf9)
